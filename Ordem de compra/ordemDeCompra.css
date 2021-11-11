@@ -1,0 +1,48 @@
+body {
+    background: hsl(225, 100%, 94%);
+    font-family: "Red Hat Display";
+    text-align: center;
+    background-image: url(pattern-background-desktop.svg);
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+p{
+    font-size: 16px;
+}
+article {
+    background: white;
+    border-radius: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgb(22, 22, 22);
+    
+    
+}
+#fotinha img {
+    border-radius: 10px 10px 0 0;
+    width: 100%;
+}
+#notinha {
+    display:flex;
+}
+footer {
+    
+    font-style: italic;
+}
+#proceedPayment{
+    background: hsl(245, 75%, 52%);
+    border-radius: 10px;
+    padding: 15px;
+    width: 490px;
+    margin: auto;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 30px;
+}
+#cancelOrder{
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
